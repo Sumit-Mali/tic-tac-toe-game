@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sumit-Mali/tic-tac-toe-game/static/css/main.44b23c6f.css",
+    "main.js": "/Sumit-Mali/tic-tac-toe-game/static/js/main.73064f6a.js",
+    "index.html": "/Sumit-Mali/tic-tac-toe-game/index.html",
+    "main.44b23c6f.css.map": "/Sumit-Mali/tic-tac-toe-game/static/css/main.44b23c6f.css.map",
+    "main.73064f6a.js.map": "/Sumit-Mali/tic-tac-toe-game/static/js/main.73064f6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b23c6f.css",
+    "static/js/main.73064f6a.js"
+  ]
+}
